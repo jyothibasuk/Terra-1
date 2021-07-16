@@ -28,6 +28,7 @@ Notes:
 
 
 Commands:
+
 terraform init (initial verification)
 terraform validate (code check)
 terraform plan (dry run - don't execute)
