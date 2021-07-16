@@ -29,8 +29,8 @@ Notes:
 
 Commands:
 
-terraform init (initial verification)
-terraform validate (code check)
-terraform plan (dry run - don't execute)
-terraform apply (actual execution)
+terraform init (initial verification);
+terraform validate (code check);
+terraform plan (dry run - don't execute);
+terraform apply (actual execution);
 terraform destroy (actual removal)
